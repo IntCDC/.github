@@ -1,10 +1,10 @@
-# Cluster of Excellence Integrative Computational Design and Construction for Architecture (EXC IntCDC)
+# Cluster of Excellence IntCDC - Integrative Computational Design and Construction for Transformative Architecture (EXC IntCDC)
 
 [WEBSITE](https://www.intcdc.uni-stuttgart.de)
 
 ### Shaping the future of architecture and the building industry through truly integrative computational design and construction.
 
-The University of Stuttgart established its new Cluster of Excellence on Integrative Computational Design and Construction for Architecture in 2019. With an initial funding period of seven years, a Cluster of Excellence is the most significant and substantial grant awarded by the German Research Foundation (DFG). For the very first time, a Cluster of Excellence has been awarded to the field of Architecture. It will contribute to establishing an internationally visible research center.
+The University of Stuttgart established its new Cluster of Excellence on Integrative Computational Design and Construction for Transformative Architecture in 2019. With an initial funding period of seven years, a Cluster of Excellence is the most significant and substantial grant awarded by the German Research Foundation (DFG). For the very first time, a Cluster of Excellence has been awarded to the field of Architecture. It will contribute to establishing an internationally visible research center.
 
 ### The urgent need to rethink design and construction in architecture
 
